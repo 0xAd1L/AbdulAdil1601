@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdulAdil1601
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html,css and javascript
 - 💞️ I’m looking to collaborate on projects related to web development
 - 📫 How to reach me ...
 
